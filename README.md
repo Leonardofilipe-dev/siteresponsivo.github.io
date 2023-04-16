@@ -2,6 +2,9 @@
 
 <p>Site Din Din de forma responsiva</P>
 
+<p>Projeto desenvolvido na Gama experiece 46#</P>
+
+
 <p>Tecnologias ultilizadas: Html e Css</P>
 
 <p align="center">Site para computadores</p>
